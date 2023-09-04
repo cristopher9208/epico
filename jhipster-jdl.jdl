@@ -1,0 +1,8 @@
+
+entity Epicoitem {
+	name String 
+    category String 
+    costPrice Float 
+    unitPrice Float 
+    picFilename String 
+}

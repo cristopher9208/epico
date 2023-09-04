@@ -1,0 +1,28 @@
+{
+  "proyectoepicoApp": {
+    "epicoitem": {
+      "home": {
+        "title": "Epicoitems",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Epicoitem",
+        "createOrEditLabel": "Créer ou éditer un Epicoitem",
+        "notFound": "Aucun Epicoitem trouvé"
+      },
+      "created": "Un nouveau Epicoitem a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Epicoitem avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Epicoitem avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Epicoitem {{ id }} ?"
+      },
+      "detail": {
+        "title": "Epicoitem"
+      },
+      "id": "ID",
+      "name": "Name",
+      "category": "Category",
+      "costPrice": "Cost Price",
+      "unitPrice": "Unit Price",
+      "picFilename": "Pic Filename"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "applications": "*",
+  "changelogDate": "20230902021642",
+  "entityTableName": "epicoitem",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "category",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "costPrice",
+      "fieldType": "Float"
+    },
+    {
+      "fieldName": "unitPrice",
+      "fieldType": "Float"
+    },
+    {
+      "fieldName": "picFilename",
+      "fieldType": "String"
+    }
+  ],
+  "name": "Epicoitem",
+  "relationships": [],
+  "searchEngine": "no"
+}
